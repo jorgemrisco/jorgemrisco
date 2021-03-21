@@ -1,0 +1,1 @@
+![jorgemrisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemrisco&count_private=true&show_icons=true&bg_color=1e2327&title_color=FFFFFF&text_color=FFFFFF&icon_color=3572a5&hide_border=true)
