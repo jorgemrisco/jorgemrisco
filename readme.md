@@ -3,11 +3,12 @@
 <a href="https://www.linkedin.com/in/jorge-m-risco/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # I've worked with
-|       Project      |                       Tools                              |
-|:------------------:|:-------------------------------------------------:|
-| Automation Scripts | Python 🐍                                                |
+|       Project      |                       Tools                             |
+|:------------------:|:-------------------------------------------------:      |
+| Automation Scripts | Python 🐍 Bash 🖥️                                       |
 | Backend            | nodeJS(Typescript 🟦) GraphQL △ Relational Databases 🗄️|
-| Mobile Development | Flutter🔹 Firebase 🔥                               |
+| Frontend           | Nextjs (React) ⚛️ Vanilla HTML/JS/CSS 💀                        |
+| Mobile Development | Flutter🔹 Firebase 🔥                                   |
 
 # What am I studying?
 
