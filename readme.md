@@ -24,9 +24,9 @@
 
 
 
-# What am I studying?
+# What am I studying? 📖📚
 
-## Tech Books Backlog 📖
+## Tech 🖥️⚙️
 
 | Book | Status |
 | --- | --- |
@@ -34,8 +34,16 @@
 | [Clean Architecture](https://www.amazon.com/-/pt/dp/0134494164/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+architecture&qid=1637262435&qsid=146-5791880-2741047&sr=8-1&sres=0134494164%2C1839211962%2CB084P489DH%2C0132350882%2CB08X8H15BW%2CB08X7FWCZM%2CB0833FBNHV%2C0137081073%2CB09FG94392%2C1449373321%2CB08CMF2CQF%2C1617296201%2C1492052205%2C1492082791%2C0201633612%2C1492086894&srpt=ABIS_BOOK) | 🔥  |
 | [Refactoring](https://www.amazon.com/-/pt/dp/0134757599/ref=sr_1_1?keywords=Refactoring&qid=1637262459&qsid=146-5791880-2741047&sr=8-1&sres=0134757599%2C1492075531%2C0201485672%2C0321984137%2C0321213351%2C0128013974%2C0321774515%2C061569022X%2CB06XK1V629%2C0132350882%2C1617296201%2C1492082791%2C161729831X%2C0471197130%2C1492047848%2C1449373321&srpt=ABIS_BOOK) |  |
 | [The Pragmatic Programmer ](https://www.amazon.com/-/pt/dp/B0C1J5P635/ref=sr_1_3?keywords=the+pragmatic+programmer&qid=1682170167&sr=8-3) | | 
-| [Design Pattersn](https://www.amazon.com/-/pt/dp/0201633612/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4ZO6GV4YS9GK&keywords=Design+Patterns&qid=1682170210&sprefix=design+pattern%2Caps%2C227&sr=8-1) | |
+| [Design Patterns](https://www.amazon.com/-/pt/dp/0201633612/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4ZO6GV4YS9GK&keywords=Design+Patterns&qid=1682170210&sprefix=design+pattern%2Caps%2C227&sr=8-1) | |
 | [Agile Software Development: PPP](https://www.amazon.com/-/pt/dp/0135974445/ref=sr_1_1?crid=3LFDMGV9GS70F&keywords=agile+software+development+principles%2C+patterns%2C+and+practices&qid=1682170231&sprefix=Agile+software+development%3A+prin%2Caps%2C217&sr=8-1) | |
 | [Domain Driven Design](https://www.amazon.com/-/pt/dp/0321125215/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1QBDJH15U0LIT&keywords=Domain+Driven+Design&qid=1682170267&sprefix=domain+driven+desig%2Caps%2C211&sr=8-1) | | 
+
+## Philosophy 📜💡
+  
+| Book | Status |
+|-|-|
+|[The Republic](https://www.amazon.com/-/pt/dp/0140455116/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3GC66S59678EM&keywords=republic+plato&qid=1682170961&sprefix=republic+pla%2Caps%2C228&sr=8-1) | ✅ |
+| [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/-/pt/dp/0872204200/ref=sr_1_5?keywords=descartes&qid=1682170890&sr=8-5) | ✅ |
+| [The Art of War](https://www.amazon.com/-/pt/dp/1599869772/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XGSW39VVEMKS&keywords=The+art+of+war&qid=1682171014&sprefix=the+art+of+war%2Caps%2C225&sr=8-1) | ✅ |
 
 </div>
